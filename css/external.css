@@ -1,0 +1,10 @@
+<style type="text/css"> 
+	#container {width: 1300px; height: 600px }
+	#header {width: 1300px; height: 100px; border: 1px solid red; background-color: orange}
+	#content {width: 1300px; height: 400px; border: 1px solid red; }
+	#sidebar {width: 300px; height: 400px; border: 1px solid red; background-color: purple}
+	#mainbar {width: 1000px; height: 400px; border: 1px solid red; background-color: teal; float: right}
+	#footer {width: 1300px; height: 100px; border: 1px solid red; background-color: green}
+	#a {font-family: tahoma; font-size: 14px}
+	#b {font-family: tahoma; font-size: 14px; color: white}
+	</style>
